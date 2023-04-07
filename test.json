@@ -1,0 +1,27 @@
+{
+    "pp_link":"profilePlaceholder.webp",
+    "firstname":["Jean", "Jean-Paul"],
+    "lastname":"dupont",
+    "dob":"23/06/2010",
+    "accounts":{
+        "bank":"10000",
+        "money": "45",
+        "dirty_money": "130"
+    },
+    "groups":{
+        "job":{
+            "label": "Cuisinier",
+            "grade_label": "Chef"
+        },
+        "group":{
+            "label": "Sauveur alpin",
+            "grade_label": "Agent"
+        }
+    },
+    "time_spent":{
+        "total": "450h45",
+        "monthly": "45h23",
+        "weekly": "12h10"
+    }
+    
+}
